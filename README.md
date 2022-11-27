@@ -66,4 +66,4 @@ Because of Nx Cloud's caching, every e2e test suite isn't going to rebuild the s
 
 ## Read More
 
-* [Read this guide about module federation and faster builds](https://nx.dev/module-federation/faster-builds)
+* [Read this guide about module federation and faster builds](https://nx.dev/module-federation/faster-builds)"# React_nx_2" 
